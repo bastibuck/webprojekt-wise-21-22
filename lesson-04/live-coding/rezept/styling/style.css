@@ -1,0 +1,48 @@
+a {
+  color: deeppink;
+  /* display: block; */
+}
+
+h1 {
+  color: rgb(0, 89, 255);
+  /* display: inline; */
+}
+
+div {
+  background: lightskyblue;
+}
+
+body {
+  font-size: 32px;
+}
+
+img {
+  height: 200px;
+  width: 500px;
+
+  border: 20px solid red; /* ist das gleiche wie drunter */
+
+  border-width: 20px;
+  border-style: solid;
+  border-color: red;
+}
+
+.blue {
+  color: blue;
+}
+
+.white {
+  color: white;
+}
+
+.red {
+  color: red;
+}
+
+span {
+  color: red;
+}
+
+.ingredients-box {
+  display: flex;
+}

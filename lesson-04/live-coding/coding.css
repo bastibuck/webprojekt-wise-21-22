@@ -1,0 +1,179 @@
+body {
+  font-size: 18px;
+  font-family: sans-serif;  
+}
+
+header {
+  background: #c5ee9f;
+  padding: 20px;
+  color: #003362;
+}
+
+h1 {
+  max-width: 1400px;
+  margin: auto;
+}
+
+main {
+  max-width: 1400px;
+  margin: auto;
+}
+
+p {
+  margin-bottom: 50px;
+}
+
+.hier {
+  color: deeppink;
+}
+
+#zwei {
+  color: salmon;
+}
+
+#eins {
+  color: salmon;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.divider-headline {
+  color: #099bf0;
+}
+
+
+/* stufenförmig */
+
+ul li > strong {
+  color: green;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* spezifität */
+#id {
+  color: gold;
+}
+
+.subheadline {
+  color: blue;
+}
+
+h3 {
+  color: deeppink;
+  font-size: 30px; /* nicht überschrieben */
+}
+
+h3 {
+  color: green;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* boxmodell */
+* {
+  /* outline: 1px dashed red; */
+}
+
+.boxmodell {
+  background: red;
+  width: 400px;
+  height: 200px;
+
+  padding: 40px;
+  border: 40px solid green;
+  margin: 150px;
+}
+
+
