@@ -1,0 +1,47 @@
+main img {
+  width: 400px;
+}
+
+html {
+  font-family: "Roboto", sans-serif;
+}
+
+/* navigation */
+header {
+  background-color: #55ffd6;
+}
+
+nav ul {
+  padding: 0;
+  display: flex;
+  list-style-type: none;
+  width: 1200px;
+  margin: 0 auto;
+}
+
+nav li {
+  width: 25%;
+  height: 100px;
+  font-size: 36px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-left: 1px solid #ffffff;
+}
+
+nav .last {
+  border-right: 1px solid #ffffff;
+}
+
+nav .active {
+  background-color: #469b87;
+}
+
+nav a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+svg path {
+  fill: red;
+}
