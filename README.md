@@ -13,7 +13,7 @@ Hier findet ihr alle Materialien, die ich euch zur Verfügung stellen möchte. S
 - [**Lektion 03: HTML & CSS**](https://github.com/bastibuck/webprojekt-wise-21-22/tree/main/lesson-03) - Wie wird das jetzt schön?
 - [**Lektion 04: CSS**](https://github.com/bastibuck/webprojekt-wise-21-22/tree/main/lesson-04) - Schönheit 2.0
 - [**Lektion 05: Webentwicklung angewandt**](https://github.com/bastibuck/webprojekt-wise-21-22/tree/main/lesson-05) - Wie arbeitet ein Webentwickler?
-- Lektion 06: JS I - Wenn dies, dann das
+- [**Lektion 06: JS I**](https://github.com/bastibuck/webprojekt-wise-21-22/tree/main/lesson-06) - Wenn dies, dann das
 - Lektion 07: JS II - Wenn dies, dann das
 - Lektion 08: Responsive Webdesign - Make it fit
 - Lektion 09: CSS Frameworks & Projektarbeit
